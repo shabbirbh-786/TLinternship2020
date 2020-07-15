@@ -1,3 +1,7 @@
+## Created a custom crawler which will crawl the websites given the seed URL and domain.
+ - Saved the content of each website into a file which later will be used to classify them into COVID-19 related or not.
+ - maintained the number of website to crawl as else it will never end.
+ - Used the Visited URL and visiting URL to avoid infinite loops.
 
 ## Model Building for Clustering
 
