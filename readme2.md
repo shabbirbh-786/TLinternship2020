@@ -2,7 +2,7 @@
 ## Model Building for Clustering
 
 ### Data Cleaning
-- cleaned the content of website by following steps
+ #### cleaned the content of website by following steps
  1. Removed stop words as they doesn't added any specific meaning to the text.
  2. Removed punctuation
  3. Did the text normalization by lemmatizing the words.
